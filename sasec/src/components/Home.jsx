@@ -30,7 +30,7 @@ const Home = () => {
         </div>
       </div>
 
-      <div className="home3" id="About">
+      <div className="home3" id="about">
         <div>
           <h1>Who we are?</h1>
           <p>
@@ -43,7 +43,7 @@ Engaged Model of Education: The arena of modern day education not only calls for
         </div>
       </div>
 
-      <div className="home4" id="brands">
+      <div className="home4" id="brand">
         <div>
           <h1>Brands</h1>
 

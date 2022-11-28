@@ -1,12 +1,13 @@
 @import "colors";
 
 footer {
-  background-color: $first;
+  background-color: rgb(195, 243, 255);
   height: 200px;
   width: 100%;
-  color: $dark;
+  color: rgb(255, 255, 255);
   display: grid;
   grid-template-columns: 4fr 1fr;
+  //fraction
   padding: 2rem;
 
   > div {

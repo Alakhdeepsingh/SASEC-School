@@ -6,11 +6,11 @@ const Header = () => {
     <nav>
       <h1>Sir Alakhdeep Singh Education Center, Kanpur</h1>
       <main>
-        <HashLink  to={"/"}>Home</HashLink>
+        <HashLink  to={"/#home"}>Home</HashLink>
         <Link to={"/contact"}>Contact</Link>
-        <HashLink  to={"/about"}>About</HashLink>
-        <HashLink  to={"/#brands"}>Brand</HashLink>
-        <Link to={"/activity"}>Activities</Link>
+        <HashLink  to={"/#about"}>About</HashLink>
+        <HashLink  to={"/#brand"}>Brand</HashLink>
+        <Link to={"/activity"}>Activity</Link>
         {/* <Link to={"/"}>Home</Link> */}
       </main>
     </nav>

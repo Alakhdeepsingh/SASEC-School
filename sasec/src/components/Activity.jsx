@@ -1,8 +1,9 @@
 import React from "react";
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
-// import images from "../assets/images.jpg";
-import images from "../assests/images.jpg";
+import a from "../assests/a.png";
+import b from "../assests/b.png";
+import c from "../assests/c.png";
 
 const Activity = () => {
   return (
@@ -16,12 +17,17 @@ const Activity = () => {
         interval={1000}
       >
         <div>
-          <img src={images} alt="Item1" />
-          <p className="legend">Full Stack</p>
+          <img src={a} alt="Item1" />
+          <p className="legend">Education</p>
         </div>
         <div>
-          <img src={images} alt="Item3" />
-          <p className="legend">Peer-to-peer Support</p>
+          <img src={b} alt="Item3" />
+          <p className="legend">Dance & Music</p>
+        </div>
+      
+        <div>
+          <img src={c} alt="Item4" />
+          <p className="legend">Games</p>
         </div>
       </Carousel>
     </div>
