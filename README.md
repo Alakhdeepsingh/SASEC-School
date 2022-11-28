@@ -1,2 +1,2 @@
 # SASEC School
-Sir Alakhdeep Singh Education Center, Kanpur
+Created responsive frontend School website named Sir Alakhdeep Singh Education Center, Kanpur
