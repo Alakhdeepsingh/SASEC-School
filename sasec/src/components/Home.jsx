@@ -35,10 +35,8 @@ const Home = () => {
           <h1>Who we are?</h1>
           <p>
           At Sir Alakhdeep Singh Education Centre, schooling is not just about a theoretical approach to facts and figures – education here is rooted in a commitment to innovation and service to the community.
-
-Set yourself apart: Our faculty constantly integrates classroom learning with the available resources and from their own experience to provide valuable skills to the students which they can carry throughout their careers. The students passing our gates emerge ready to make positive changes in diverse communities and organizations at a global level.
-
-Engaged Model of Education: The arena of modern day education not only calls for innovative methodology in imparting instructions but also strengthening core intrinsic values of the myriad Indian culture. Our institution is a cauldron that amalgamates contemporary qualities with traditional values and also acts as a fulcrum that aids students…
+          Set yourself apart: Our faculty constantly integrates classroom learning with the available resources and from their own experience to provide valuable skills to the students which they can carry throughout their careers. The students passing our gates emerge ready to make positive changes in diverse communities and organizations at a global level.
+          Engaged Model of Education: The arena of modern day education not only calls for innovative methodology in imparting instructions but also strengthening core intrinsic values of the myriad Indian culture. Our institution is a cauldron that amalgamates contemporary qualities with traditional values and also acts as a fulcrum that aids students…
           </p>
         </div>
       </div>

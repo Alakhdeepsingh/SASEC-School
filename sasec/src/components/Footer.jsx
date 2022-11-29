@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer>
       <div>
-        <h1>SASES, Kanpur</h1>
+        <h1>SASEC, Kanpur</h1>
         <p>@all right reserved</p>
       </div>
 
